@@ -219,7 +219,7 @@ Copy or rename it if you want to keep it."</string>
     <string name="accessibility_disable">"DISABLE"</string>
     <string name="accessibility_enable_in_settings">"ENABLE IN SETTINGS"</string>
     <string name="accessibility_disabled_title">"Accessibility Disabled"</string>
-    <string name="accessibility_disabled_message">"FGA will need to use Android accessibility features to simulate touch screen inputs for you in FGO.
+    <string name="accessibility_disabled_message">"ASLD will need to use Android accessibility features to simulate touchscreen inputs for you.
 
 Please turn on accessibility for this app from System settings. If it is already On, turn it OFF and start again."</string>
     <string name="accessibility_disabled_go_to_settings">"Go To Settings"</string>
@@ -368,12 +368,12 @@ Please turn on accessibility for this app from System settings. If it is already
     <string name="p_game_area_custom_top">"Top"</string>
     <string name="p_game_area_custom_right">"Right"</string>
     <string name="p_game_area_custom_bottom">"Bottom"</string>
-    <string name="p_welcome">"Welcome to FGA!"</string>
+    <string name="p_welcome">"Welcome to ASLD!"</string>
     <string name="p_welcome_description">"This screen will guide you through the most important setup steps."</string>
     <string name="p_battery_optimization">"Battery optimization"</string>
-    <string name="p_battery_optimization_description">"FGA requires unrestricted battery settings, otherwise it will randomly stop working after some time.
+    <string name="p_battery_optimization_description">"ASLD requires unrestricted battery settings, otherwise it will randomly stop working after some time.
 
-After pressing on the button, switch the app filter from \"Not optimized\" to \"All apps\" and set FGA to \"Do not optimize\"."</string>
+After pressing on the button, switch the app filter from \"Not optimized\" to \"All apps\" and set ASLD to \"Do not optimize\"."</string>
     <string name="p_battery_optimization_action">"Disable battery optimization"</string>
     <string name="p_battery_optimization_dontkillmyapp">"You may also need to disable more optimizations specific to your device. Guides are available on dontkillmyapp.com."</string>
     <string name="p_youtube_guide">"Youtube guide"</string>

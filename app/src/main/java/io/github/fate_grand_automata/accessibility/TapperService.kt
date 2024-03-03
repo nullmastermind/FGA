@@ -36,7 +36,7 @@ class TapperService : AccessibilityService() {
 
     override fun onUnbind(intent: Intent?): Boolean {
         Timber.i("Accessibility Service unbind")
-        Toast.makeText(this, "FGA Accessibility stopped", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "ASLD Accessibility stopped", Toast.LENGTH_SHORT).show()
         instance = null
 
         return super.onUnbind(intent)

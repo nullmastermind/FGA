@@ -58,10 +58,10 @@ fun OnboardingContent(
     val pages = remember {
         listOf(
             WelcomeScreen(vm),
-            PickLanguage(vm),
+//            PickLanguage(vm),
             PickDirectory(vm),
             DisableBatteryOptimization(vm),
-            YoutubeVideo(vm)
+//            YoutubeVideo(vm)
         ).filter { !it.shouldSkip() }
     }
 

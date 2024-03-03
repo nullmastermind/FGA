@@ -38,7 +38,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "io.github.fate_grand_automata"
+        applicationId = "dev.dongnv.asld"
         minSdk = 24
         targetSdk = 33
         versionCode = System.getenv("FGA_VERSION_CODE")?.toInt() ?: 1
